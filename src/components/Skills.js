@@ -65,7 +65,7 @@ export const Skills = () => {
                 <Col>
                     <div className='skill-bx-2'>
                         <h2>
-                            LANGUAGES//FRAMEWORKS
+                            FRAMEWORKS
                         </h2>
                         <p>Within my coding journey I have tried to immerse myself with many unique languages//frameworks to understand as many elements of development as I can...This is my list, but it grows exponentially as time goes by.</p>
                         <Carousel responsive={responsive} infinite={true} className='skill-slider'>
