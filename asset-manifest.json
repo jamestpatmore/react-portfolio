@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/jamestpatmore/ReactPortfolio/static/css/main.a7154647.css",
+    "main.js": "/jamestpatmore/ReactPortfolio/static/js/main.72bcdf92.js",
+    "static/media/chip-3.gif": "/jamestpatmore/ReactPortfolio/static/media/chip-3.ffed6923f162ff22ff34.gif",
+    "static/media/speedrunnerdesktop.png": "/jamestpatmore/ReactPortfolio/static/media/speedrunnerdesktop.9328597a33259867372d.png",
+    "static/media/chip-2.gif": "/jamestpatmore/ReactPortfolio/static/media/chip-2.4c552438478e2e5efee8.gif",
+    "static/media/blogscreenshot.png": "/jamestpatmore/ReactPortfolio/static/media/blogscreenshot.a73cfa1ec5c1b983402c.png",
+    "static/media/disneyplus.png": "/jamestpatmore/ReactPortfolio/static/media/disneyplus.b33e0825177e4c4c2c01.png",
+    "static/media/chip-1.gif": "/jamestpatmore/ReactPortfolio/static/media/chip-1.dda2bed78e474a5227b7.gif",
+    "static/media/chip-4.gif": "/jamestpatmore/ReactPortfolio/static/media/chip-4.26116f1a7699ef75ace9.gif",
+    "static/media/abstract.gif": "/jamestpatmore/ReactPortfolio/static/media/abstract.e245997c96deba7a82f7.gif",
+    "static/media/color-sharp.png": "/jamestpatmore/ReactPortfolio/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/productscreenshot.png": "/jamestpatmore/ReactPortfolio/static/media/productscreenshot.7353094c37b28f0ac12d.png",
+    "static/media/color-sharp2.png": "/jamestpatmore/ReactPortfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/header-img2.png": "/jamestpatmore/ReactPortfolio/static/media/header-img2.54610bf1183364bb285a.png",
+    "static/media/twitter.png": "/jamestpatmore/ReactPortfolio/static/media/twitter.5cabe526fc87b69ba81b.png",
+    "static/media/pokeCards.png": "/jamestpatmore/ReactPortfolio/static/media/pokeCards.57a1a94dfc688ed74efa.png",
+    "static/media/contact.png": "/jamestpatmore/ReactPortfolio/static/media/contact.52027da01ddf96bc7dcf.png",
+    "static/media/github-icon.png": "/jamestpatmore/ReactPortfolio/static/media/github-icon.4bb497e598c121a691f7.png",
+    "static/media/linkedin-icon.png": "/jamestpatmore/ReactPortfolio/static/media/linkedin-icon.aac2bd0e899c2f82cb7b.png",
+    "static/media/revicons.eot": "/jamestpatmore/ReactPortfolio/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/jamestpatmore/ReactPortfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/jamestpatmore/ReactPortfolio/static/media/revicons.e8746a624ed098489406.woff",
+    "index.html": "/jamestpatmore/ReactPortfolio/index.html",
+    "main.a7154647.css.map": "/jamestpatmore/ReactPortfolio/static/css/main.a7154647.css.map",
+    "main.72bcdf92.js.map": "/jamestpatmore/ReactPortfolio/static/js/main.72bcdf92.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a7154647.css",
+    "static/js/main.72bcdf92.js"
+  ]
+}
