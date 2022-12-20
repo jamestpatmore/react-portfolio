@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jamestpatmore/ReactPortfolio/static/css/main.a7154647.css",
-    "main.js": "/jamestpatmore/ReactPortfolio/static/js/main.72bcdf92.js",
+    "main.js": "/jamestpatmore/ReactPortfolio/static/js/main.0e769895.js",
     "static/media/chip-3.gif": "/jamestpatmore/ReactPortfolio/static/media/chip-3.ffed6923f162ff22ff34.gif",
     "static/media/speedrunnerdesktop.png": "/jamestpatmore/ReactPortfolio/static/media/speedrunnerdesktop.9328597a33259867372d.png",
     "static/media/chip-2.gif": "/jamestpatmore/ReactPortfolio/static/media/chip-2.4c552438478e2e5efee8.gif",
@@ -24,10 +24,10 @@
     "static/media/revicons.woff": "/jamestpatmore/ReactPortfolio/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/jamestpatmore/ReactPortfolio/index.html",
     "main.a7154647.css.map": "/jamestpatmore/ReactPortfolio/static/css/main.a7154647.css.map",
-    "main.72bcdf92.js.map": "/jamestpatmore/ReactPortfolio/static/js/main.72bcdf92.js.map"
+    "main.0e769895.js.map": "/jamestpatmore/ReactPortfolio/static/js/main.0e769895.js.map"
   },
   "entrypoints": [
     "static/css/main.a7154647.css",
-    "static/js/main.72bcdf92.js"
+    "static/js/main.0e769895.js"
   ]
 }
