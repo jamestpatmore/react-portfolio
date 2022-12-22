@@ -9,7 +9,7 @@ This is my awesome portfolio :rice_scene: I was very ecstatic to make this proje
 
 
 Here is a screenshot of the app! :camera::camera::camera:
-![homepage screenshot](../../Downloads/reactportss.png)
+![homepage screenshot](./src/assets/img/reactportss.png)
 
 What makes this portfolio so user friendly is the smooth mobile responsive nature to it as well as the one page structure, while also having an elemental change throughout the experience. 
 
