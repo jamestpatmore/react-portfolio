@@ -40,6 +40,9 @@ export const Project = () => {
       description: "In the Works: Twitter App clone",
       imgUrl: projImg6,
     },
+  ];
+
+  const wipProjects = [
     {
       title: 'PokeCardz',
       description: 'In the works: Pokemon Card Database for collectors',
@@ -102,7 +105,18 @@ export const Project = () => {
                   </Row>
                   </Tab.Pane>
                 <Tab.Pane eventKey='third'>
-                  <p>MORE TBA</p>
+                  <Row>
+                      {
+                      wipProjects.map((project, index) => {
+                        return (
+                          <ProjectCard
+                          key={index}
+                          {...project}
+                          />
+                          )
+                        })
+                      }
+                  </Row>
                 </Tab.Pane>
               </Tab.Content>
             </Tab.Container>
