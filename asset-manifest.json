@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/react-portfolio/static/css/main.5df6d52b.css",
-    "main.js": "/react-portfolio/static/js/main.ad7dbe1c.js",
+    "main.css": "/react-portfolio/static/css/main.35297e05.css",
+    "main.js": "/react-portfolio/static/js/main.63f50436.js",
     "static/media/chip-3.gif": "/react-portfolio/static/media/chip-3.ffed6923f162ff22ff34.gif",
     "static/media/speedrunnerdesktop.png": "/react-portfolio/static/media/speedrunnerdesktop.9328597a33259867372d.png",
     "static/media/chip-2.gif": "/react-portfolio/static/media/chip-2.4c552438478e2e5efee8.gif",
@@ -23,11 +23,11 @@
     "static/media/revicons.ttf": "/react-portfolio/static/media/revicons.57fd05d4ae650374c8de.ttf",
     "static/media/revicons.woff": "/react-portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/react-portfolio/index.html",
-    "main.5df6d52b.css.map": "/react-portfolio/static/css/main.5df6d52b.css.map",
-    "main.ad7dbe1c.js.map": "/react-portfolio/static/js/main.ad7dbe1c.js.map"
+    "main.35297e05.css.map": "/react-portfolio/static/css/main.35297e05.css.map",
+    "main.63f50436.js.map": "/react-portfolio/static/js/main.63f50436.js.map"
   },
   "entrypoints": [
-    "static/css/main.5df6d52b.css",
-    "static/js/main.ad7dbe1c.js"
+    "static/css/main.35297e05.css",
+    "static/js/main.63f50436.js"
   ]
 }
