@@ -10,7 +10,7 @@ import projImg6 from '../assets/img/twitter.png';
 import projImg7 from '../assets/img/pokeCards.png';
 import projImg8 from '../assets/img/reacttasktracker-ex.png';
 import projImg9 from '../assets/img/employee-tracker.png';
-import projImg10 from '../assets/img/pokeCards.png';
+// import projImg10 from '../assets/img/pokeCards.png';
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
@@ -20,31 +20,37 @@ export const Project = () => {
       title: "DevTek: Blog",
       description: "MVC model for the Blog Post Section of DevTek (one of my creations)",
       imgUrl: projImg1,
+      href: "https://github.com/jamestpatmore/Project2" 
     },
     {
       title: "DevTek",
       description: "ECOMM website MVC model. With UserAuth, BlogPost and Retail",
       imgUrl: projImg2,
+      href: "https://github.com/jamestpatmore/MVC-TechBlog"
     },
     {
       title: "SPEEDRUNNER",
       description: "Video Game Database//Using 3rd Party APIS//WIP",
       imgUrl: projImg3,
+      href: 'https://github.com/jlmayo/Speed-Runner'
     },
     {
       title: 'React-TaskTracker',
       description: "Dynamic schedule coordinator built with React!",
-      imgUrl: projImg8
+      imgUrl: projImg8,
+      href: 'https://github.com/jamestpatmore/ReactTaskTracker'
     },
     {
       title: 'EmployeeTracker',
       description: "Employee Database built w/SQL and Node",
-      imgUrl: projImg9
+      imgUrl: projImg9,
+      href: 'https://github.com/jamestpatmore/EmployeeTracker_SQL'
     },
     {
       title: 'CodeQuiz',
       description: "Fun tech/code based quiz to test your technological intellect!",
-      imgUrl: projImg4
+      imgUrl: projImg4,
+      href: 'https://github.com/jamestpatmore/CodeQuiz'
     }
   ];
   const clones = [
