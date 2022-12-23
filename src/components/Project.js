@@ -4,10 +4,13 @@ import colorSharp2 from '../assets/img/color-sharp2.png';
 import projImg1 from '../assets/img/blogscreenshot.png';
 import projImg2 from '../assets/img/productscreenshot.png';
 import projImg3 from '../assets/img/speedrunnerdesktop.png';
-// import projImg4 from '../assets/img/hompagess.png';
+import projImg4 from '../assets/img/hompagess.png';
 import projImg5 from '../assets/img/disneyplus.png';
 import projImg6 from '../assets/img/twitter.png';
 import projImg7 from '../assets/img/pokeCards.png';
+import projImg8 from '../assets/img/reacttasktracker-ex.png';
+import projImg9 from '../assets/img/employee-tracker.png';
+import projImg10 from '../assets/img/pokeCards.png';
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
 
@@ -28,6 +31,21 @@ export const Project = () => {
       description: "Video Game Database//Using 3rd Party APIS//WIP",
       imgUrl: projImg3,
     },
+    {
+      title: 'React-TaskTracker',
+      description: "Dynamic schedule coordinator built with React!",
+      imgUrl: projImg8
+    },
+    {
+      title: 'EmployeeTracker',
+      description: "Employee Database built w/SQL and Node",
+      imgUrl: projImg9
+    },
+    {
+      title: 'CodeQuiz',
+      description: "Fun tech/code based quiz to test your technological intellect!",
+      imgUrl: projImg4
+    }
   ];
   const clones = [
     {
