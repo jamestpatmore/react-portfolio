@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-portfolio/static/css/main.35297e05.css",
-    "main.js": "/react-portfolio/static/js/main.ab001085.js",
+    "main.js": "/react-portfolio/static/js/main.2a0ff86f.js",
     "static/media/chip-3.gif": "/react-portfolio/static/media/chip-3.ffed6923f162ff22ff34.gif",
     "static/media/speedrunnerdesktop.png": "/react-portfolio/static/media/speedrunnerdesktop.9328597a33259867372d.png",
     "static/media/chip-2.gif": "/react-portfolio/static/media/chip-2.4c552438478e2e5efee8.gif",
@@ -14,6 +14,7 @@
     "static/media/productscreenshot.png": "/react-portfolio/static/media/productscreenshot.7353094c37b28f0ac12d.png",
     "static/media/color-sharp2.png": "/react-portfolio/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
     "static/media/header-img2.png": "/react-portfolio/static/media/header-img2.54610bf1183364bb285a.png",
+    "static/media/homepagessP3.png": "/react-portfolio/static/media/homepagessP3.7f67607b7b4c267541e6.png",
     "static/media/twitter.png": "/react-portfolio/static/media/twitter.5cabe526fc87b69ba81b.png",
     "static/media/pokeCards.png": "/react-portfolio/static/media/pokeCards.57a1a94dfc688ed74efa.png",
     "static/media/contact.png": "/react-portfolio/static/media/contact.52027da01ddf96bc7dcf.png",
@@ -27,10 +28,10 @@
     "static/media/revicons.woff": "/react-portfolio/static/media/revicons.e8746a624ed098489406.woff",
     "index.html": "/react-portfolio/index.html",
     "main.35297e05.css.map": "/react-portfolio/static/css/main.35297e05.css.map",
-    "main.ab001085.js.map": "/react-portfolio/static/js/main.ab001085.js.map"
+    "main.2a0ff86f.js.map": "/react-portfolio/static/js/main.2a0ff86f.js.map"
   },
   "entrypoints": [
     "static/css/main.35297e05.css",
-    "static/js/main.ab001085.js"
+    "static/js/main.2a0ff86f.js"
   ]
 }
