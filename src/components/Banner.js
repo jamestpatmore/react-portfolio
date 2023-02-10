@@ -60,7 +60,10 @@ export const Banner = () => {
                     <div className={isVisible ? 'animated__animated animate__fadeIn' : ''}>
                     <span className='tagline'>Welcome to my Portfolio</span>
                     <h1>{`James Patmore: `}<span className='wrap'>{text}</span></h1>
-                    <p>...info..about...me</p>
+                    <p> With me, you are getting someone with an immense amount of potential, 
+                        knowledge and the drive to learn anything and everything 
+                        within the totality of development. With all the curriculum 
+                        that this world provides, you just can't teach that.</p>
                     <button href="#contact">Let's Connect <ArrowRightCircle size={25}/></button>
                     </div>}
                     </TrackVisibility>

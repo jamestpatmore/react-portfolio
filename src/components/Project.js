@@ -10,6 +10,7 @@ import projImg6 from '../assets/img/twitter.png';
 import projImg7 from '../assets/img/pokeCards.png';
 import projImg8 from '../assets/img/reacttasktracker-ex.png';
 import projImg9 from '../assets/img/employee-tracker.png';
+import projimg10 from '../assets/img/homepagessP3.png';
 // import projImg10 from '../assets/img/pokeCards.png';
 import 'animate.css';
 import TrackVisibility from 'react-on-screen';
@@ -51,6 +52,12 @@ export const Project = () => {
       description: "Fun tech/code based quiz to test your technological intellect!",
       imgUrl: projImg4,
       href: 'https://github.com/jamestpatmore/CodeQuiz'
+    },
+    {
+      title: 'L.M.A.Y',
+      description: "Anon Social Media Questionare built w/MERN & Apollo GraphQL [click for heroku link]",
+      imgUrl: projimg10,
+      href: 'https://polar-sierra-99541.herokuapp.com'
     }
   ];
   const clones = [
